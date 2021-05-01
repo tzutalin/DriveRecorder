@@ -25,9 +25,13 @@ There are two options:
 
 2. Go to setting and login EnVsion, then go to video player and share your video to [https://app.getdash.ai/](https://app.getdash.ai/)
 
+![Login Envsion](./EnVsion-dash.png)
+![Output a time using Envsion](./Envsion-dash-share.png)
+
 
 ## How to record in the background?
 
+![Background recording](./BackgroundRec.png)
 
 ## Does this app support OBD interface?
 
