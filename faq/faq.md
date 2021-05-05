@@ -4,8 +4,8 @@
 * [What happens if the length of one video exceeds the file storage limitation?](#what-happens-if-the-length-of-one-video-exceeds-the-file-storage-limitation)
 * [How to output the time stamp to a video?](#how-to-output-the-time-stamp-to-a-video)
 * [How to record in the background?](#how-to-record-in-the-background)
+* [How to stop the recording in the background easily?](#how-to-stop-the-recording-in-the-background-easily)
 * [Does this app support OBD interface?](#does-this-app-support-obd-interface)
-
 
 ## How Loop Recording work
 
@@ -32,6 +32,14 @@ There are two options:
 ## How to record in the background?
 
 ![Background recording](./BackgroundRec.png)
+
+
+## How to stop the recording in the background easily?
+
+Drag the recording button in red to the close button. See the screenshot:
+
+![Stop background recording](./drag-stop.png)
+
 
 ## Does this app support OBD interface?
 
