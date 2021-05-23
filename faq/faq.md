@@ -19,15 +19,7 @@ It will stop the current recording, and start a new one to override the current 
 
 ## How to output the time stamp to a video?
 
-There are two options:
-
-1. Go to the video player and select `Output a video with timestamp`. However, it does not support all devices. Some of old devices or certain devices using x86 CPU are unable to do this. You can go with the second option.
-
-2. Go to setting and login EnVsion, then go to video player and share your video to [https://app.getdash.ai/](https://app.getdash.ai/)
-
-![Login Envsion](./EnVsion-dash.png)
-![Output a time using Envsion](./Envsion-dash-share.png)
-
+Go to the video player and select `Output a video with timestamp`. However, it does not support all devices. Some of old devices or certain devices using x86 CPU are unable to do this. You can go with the second option.
 
 ## How to record in the background?
 
