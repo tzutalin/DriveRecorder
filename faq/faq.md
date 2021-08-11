@@ -1,13 +1,12 @@
 # Frequently Asked Questions
 
 * [How Loop Recording work](#how-loop-recording-work)
-* [What happens if the length of one video exceeds the file storage limitation?](#what-happens-if-the-length-of-one-video-exceeds-the-file-storage-limitation?)
-* [How to output the time stamp to a video?](#how-to-output-the-time-stamp-to-a-video?)
-* [How to record in the background?](#how-to-record-in-the-background?)
-* [How to stop the recording in the background easily?](#how-to-stop-the-recording-in-the-background-easily?)
-* [How to save needed videos to other places such as Google Drive, YouTube?](#how-to-save-needed-videos-to-other-places-such-as-google-drive,-youtube?)
-* [Does this app support OBD interface?](#does-this-app-support-obd-interface?)
-
+* [What happens if the length of one video exceeds the file storage limitation?](#what-happens-if-the-length-of-one-video-exceeds-the-file-storage-limitation)
+* [How to output the time stamp to a video?](#how-to-output-the-time-stamp-to-a-video)
+* [How to record in the background?](#how-to-record-in-the-background)
+* [How to stop the recording in the background easily?](#how-to-stop-the-recording-in-the-background-easily)
+* [How to save needed videos to other places such as Google Drive, YouTube?](#how-to-save-needed-videos-to-other-places-such-as-google-drive-youtube)
+* [Does this app support OBD interface?](#does-this-app-support-obd-interface)
 
 ## How Loop Recording work
 
