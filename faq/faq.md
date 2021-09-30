@@ -7,6 +7,8 @@
 * [How to stop the recording in the background easily?](#how-to-stop-the-recording-in-the-background-easily)
 * [How to save needed videos to other places such as Google Drive, YouTube?](#how-to-save-needed-videos-to-other-places-such-as-google-drive-youtube)
 * [Does this app support OBD interface?](#does-this-app-support-obd-interface)
+* [Where to download the app](#where-to-download-the-app)
+
 
 ## How Loop Recording work
 
@@ -42,3 +44,9 @@ Drag the recording button in red to the close button. See the screenshot:
 ## Does this app support OBD interface?
 
 At the moment, I don't have OBD setup and device for testing. So it does not support OBD interface.
+
+
+## Where to download the app
+
+[Go to Google Play](https://play.google.com/store/apps/details?id=com.dayun.driverecorder)
+
