@@ -7,6 +7,7 @@
 * [How to stop the recording in the background easily?](#how-to-stop-the-recording-in-the-background-easily)
 * [How to save needed videos to other places such as Google Drive, YouTube?](#how-to-save-needed-videos-to-other-places-such-as-google-drive-youtube)
 * [Does this app support OBD interface?](#does-this-app-support-obd-interface)
+* [Does this app support an external camera connected via USB host or OTG?](#does-this-app-support-an-external-camera-connected-via-usb-host-or-otg)
 * [Where to download the app](#where-to-download-the-app)
 
 
@@ -44,6 +45,10 @@ Drag the recording button in red to the close button. See the screenshot:
 ## Does this app support OBD interface?
 
 At the moment, I don't have OBD setup and device for testing. So it does not support OBD interface.
+
+## Does this app support an external camera connected via USB host or OTG?
+
+At the moment, it does not support an external camera
 
 
 ## Where to download the app
